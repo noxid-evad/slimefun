@@ -1,0 +1,50 @@
+# Changelog
+
+## Changelog 0004 - 09/09/2022
+
+{% hint style="success" %}
+ADDED\
+\- Chestprotect (Against my better judgement) users can now protect up to 16 things in the world (only chest, doors & shulker boxes) are available for locking.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+Working Progress\
+\- jobs shop is currently in the works to add even more ways for users to grind and earn some flashy items such as tools, armor, elytra, beacon, dragon egg and much more (this is obtainable via job points)&#x20;
+{% endhint %}
+
+{% hint style="warning" %}
+COMPLETED\
+\- Shop plugin we use has updated there api, which means i was finally able to complete the "shop receipt" as it does not hold any private information, this channel will be made public in the coming days, so all users are able to see what other users are buying/selling to the shop.&#x20;
+{% endhint %}
+
+* Minor adjustments in relation to payout on  a few jobs have been altered and decreased.&#x20;
+
+## Changelog 0003 - 07/09/2022
+
+<mark style="color:orange;">**\[PLUGINS]**</mark>
+
+{% hint style="danger" %}
+Shop \
+\- Removed the ability to buy food items from inside the shop for all ranks
+{% endhint %}
+
+{% hint style="success" %}
+Shop \
+\- Food items are available on sell only basis. Use villages, grow your own, make a farm or explore the wilderness if you require any food.
+{% endhint %}
+
+Created new trigger alerts for shop transaction (bought/sold) \
+Updated the advancements to showcase in the [#advancements](https://discordapp.com/channels/233745341793566724/1015580402812985406) channel\
+Updated the jobs for better payout and rewards
+
+## Changelog 0002 - 04/09/2022
+
+* Added <mark style="color:green;">**Quests**</mark> (which introduces 26 different task types, 17 categories with over 1300+ quests for use to achieve) Users will receive £££ rewards upon completion of quest. Some cooldowns may apply on certain quests. Simply run _<mark style="color:green;">**/quests**</mark>_ in-game to view more.
+
+## Changelog 0001 - 03/09/2022
+
+* Added jobs to server users can use /jobs browse for more information.&#x20;
+* Users can only join two jobs at any given time
+
+
+
