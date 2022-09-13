@@ -44,10 +44,10 @@ or
 
  
 
-<figure><img src="../.gitbook/assets/2-1660359795.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2-1660359795 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/2-1660359803 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2-1660359803.jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>

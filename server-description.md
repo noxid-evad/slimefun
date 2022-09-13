@@ -22,7 +22,7 @@ Towny is our new official land protection plugin, it will allow you to create a 
 {% endtab %}
 {% endtabs %}
 
-<figure><img src=".gitbook/assets/terralithlogo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/terralithlogo (1).png" alt=""><figcaption></figcaption></figure>
 
 Terralith adds over 85+ new biomes, and updates nearly all of the biomes from the orignal version with new and improved features. It also includes a ton of new terrain such as canyons, fragmented biomes, floating islands, deep ocean trenches and much more. \
 \
