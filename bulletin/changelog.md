@@ -1,5 +1,13 @@
 # Changelog
 
+## Changelog 0005 - 18/09/2022
+
+<mark style="color:green;">**ADDED**</mark>\ <mark style="color:green;">**-**</mark> Added towns to the live server map\
+<mark style="color:green;">**-**</mark> Added a GUI for better understanding of towny, users must do <mark style="color:green;">**/tgui \<command>**</mark> to view there respective area\
+\
+<mark style="color:red;">**REMOVED**</mark>\ <mark style="color:red;">**-**</mark> Users ability to hide <mark style="color:red;"></mark> themselves from the live server map\
+<mark style="color:red;">**-**</mark> Ender pearls from the mob shops (Users can still sell them but not directly to the shop)
+
 ## Changelog 0004 - 09/09/2022
 
 {% hint style="success" %}
