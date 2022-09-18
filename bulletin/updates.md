@@ -4,33 +4,6 @@ description: Latest server updates.
 
 # Updates
 
-## Version 1.0.2 - 18/09/2022
-
-<mark style="color:yellow;">**VOTING FOR SERVER**</mark>\ <mark style="color:yellow;">****</mark>- <mark style="color:yellow;">****</mark> Plugin has now been reconfigured and users can now freely vote on the following sites\
-[https://minecraft-server-list.com/server/486841/vote/\
-https://minecraftservers.org/vote/320843\
-https://minecraft-server.net/vote/EKTnoxidevad/\
-https://topmcservers.com/server/1266/vote\
-https://minecraft-mp.com/server/310235/vote/\
-https://minecraft.buzz/vote/4659](https://minecraft-server-list.com/server/486841/vote/https://minecraftservers.org/vote/320843https:/minecraft-server.net/vote/EKTnoxidevad/https://topmcservers.com/server/1266/votehttps://minecraft-mp.com/server/310235/vote/https://minecraft.buzz/vote/4659)\
-\
-By voting for us on the above link, you will help our server move up the ladder system with the hope of attracting new players to the server and being more active. \
-\
-<mark style="color:yellow;">**Voting Rewards**</mark>\
-\- Every vote gets you £100 in-game money (so £600 if voted on all sites)\
-\- You will also receive a "Vote Key" these can be used at spawn at the vote crate\
-\
-There is other crates i am working on, however for the time being only Vote Crate will be accessible until i have completed the rest. \
-\
-Users can also see who won which item(s) by looking in the [#crates](https://discordapp.com/channels/233745341793566724/1014509032112914533/1021060435509772338) channel\
-\
-&#x20;_<mark style="color:red;">**TIP**</mark>_** ** \
-1\) Due to how voting works with the service sites, Users who share the same IP address can only vote once per 15-24hrs on each link which means only one user can vote from that IP \
-\
-\- To get around this (_<mark style="color:orange;">You may be able to vote via your mobile or vpn</mark>_) if the service sites allows it. \
-\
-2\) Make sure you have enough inventory slots available prior to opening the crates, otherwise items may not be given and/or may be dropped where you stand. We will not replace any key/item regardless.&#x20;
-
 ## Version 1.0.1 - 08/09/2022
 
 Server was experiencing major issues for a good few hours (sadly myself was at work all day, and Goku was on family duties) whilst you may not of noticed/experienced any major dip in performance or stability, the console was being heavily spammed (and also being rate limited)\
