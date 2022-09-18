@@ -22,7 +22,14 @@ By voting for us on the above link, you will help our server move up the ladder 
 \
 There is other crates i am working on, however for the time being only Vote Crate will be accessible until i have completed the rest. \
 \
-Users can also see who won which item(s) by looking in the [#crates](https://discordapp.com/channels/233745341793566724/1014509032112914533/1021060435509772338) channel
+Users can also see who won which item(s) by looking in the [#crates](https://discordapp.com/channels/233745341793566724/1014509032112914533/1021060435509772338) channel\
+\
+&#x20;_<mark style="color:red;">**TIP**</mark>_** ** \
+1\) Due to how voting works with the service sites, Users who share the same IP address can only vote once per 15-24hrs on each link which means only one user can vote from that IP \
+\
+\- To get around this (_<mark style="color:orange;">You may be able to vote via your mobile or vpn</mark>_) if the service sites allows it. \
+\
+2\) Make sure you have enough inventory slots available prior to opening the crates, otherwise items may not be given and/or may be dropped where you stand. We will not replace any key/item regardless.&#x20;
 
 ## Version 1.0.1 - 08/09/2022
 
