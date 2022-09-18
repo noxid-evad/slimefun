@@ -10,7 +10,9 @@ Stone Rank can now access 5 shops and they're as followed\
 \- Music Discs (ALL available to buy only)\
 \- Colors (All colors with various items)\
 \
-Access via /shop&#x20;
+Access via /shop \
+\
+All other shops have been hidden until i decide on what to put in them
 
 
 
