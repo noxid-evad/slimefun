@@ -1,5 +1,19 @@
 # Changelog
 
+## Changelog 0006 - 18/09/2022
+
+Stone Rank can now access 5 shops and they're as followed\
+\
+\- Brewing (For making potions)\
+\- Food (All food items - vanilla)\
+\- Mob Drops (SELL ONLY, Ender pearls removed)\
+\- Music Discs (ALL available to buy only)\
+\- Colors (All colors with various items)\
+\
+Access via /shop&#x20;
+
+
+
 ## Changelog 0005 - 18/09/2022
 
 <mark style="color:green;">**ADDED**</mark>\ <mark style="color:green;">**-**</mark> Added towns to the live server map\
