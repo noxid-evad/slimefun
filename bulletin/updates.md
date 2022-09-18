@@ -4,8 +4,6 @@ description: Latest server updates.
 
 # Updates
 
-
-
 ## Version 1.0.2 - 18/09/2022
 
 <mark style="color:yellow;">**VOTING FOR SERVER**</mark>\ <mark style="color:yellow;">****</mark>- <mark style="color:yellow;">****</mark> Plugin has now been reconfigured and users can now freely vote on the following sites\
@@ -22,7 +20,9 @@ By voting for us on the above link, you will help our server move up the ladder 
 \- Every vote gets you £100 in-game money (so £600 if voted on all sites)\
 \- You will also receive a "Vote Key" these can be used at spawn at the vote crate\
 \
-There is other crates i am working on, however for the time being only Vote Crate will be accessible until i have completed the rest.&#x20;
+There is other crates i am working on, however for the time being only Vote Crate will be accessible until i have completed the rest. \
+\
+Users can also see who won which item(s) by looking in the [#crates](https://discordapp.com/channels/233745341793566724/1014509032112914533/1021060435509772338) channel
 
 ## Version 1.0.1 - 08/09/2022
 
