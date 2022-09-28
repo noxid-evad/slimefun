@@ -1,5 +1,15 @@
 # Changelog
 
+## Changelog 0007 - 28/09/2022
+
+<mark style="color:green;">**Fixed:**</mark> /kits default not working on default rank\
+\
+<mark style="color:blue;">**DeathChests**</mark>\
+Upon death, users will be see "<mark style="color:yellow;">\[TP] LEFT CLICK</mark>" clicking on the <mark style="color:yellow;">\[TP]</mark> will teleport you directly to your chest, you will have 10-15 seconds of immortality, Immortality ends when you pick up the chest.\
+_<mark style="color:yellow;">"Left Click Chest"</mark>_ has also been added to the holographic display as a reminder
+
+
+
 ## Changelog 0006 - 18/09/2022
 
 Stone Rank can now access 5 shops and they're as followed\
