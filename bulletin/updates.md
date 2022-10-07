@@ -4,6 +4,22 @@ description: Latest server updates.
 
 # Updates
 
+## Version 1.0.3 - 07/10/2022
+
+{% hint style="success" %}
+Server has been fully updated to latest .jar files.\
+\
+<mark style="color:yellow;">**NEW PLUGIN - Exotic Garden**</mark>\ <mark style="color:yellow;">****</mark>This plugin adds in new content such as new trees, bushes, food (massive list), and some miscellaneous items in total there is an additional 100+ new items to the game.\
+\
+You will need to use XP to unlock the required items in order to obtain them.\
+\
+please note plants are fully disabled due to a duplication glitch that the developers cannotfigure out on how to fix "[SEE HERE FOR THE ISSUE](https://github.com/TheBusyBiscuit/ExoticGarden/issues/247)" \
+\
+for further information on this plugin "[CLICK HERE](https://dev.bukkit.org/projects/exotic-garden)"\
+\
+Once i have spare time, i will add the recipes and relevant information to the wiki for ease of access.
+{% endhint %}
+
 ## Version 1.0.2 - 18/09/2022
 
 <mark style="color:yellow;">**VOTING FOR SERVER**</mark>\ <mark style="color:yellow;">****</mark>- <mark style="color:yellow;">****</mark> Plugin has now been reconfigured and users can now freely vote on the following sites\
