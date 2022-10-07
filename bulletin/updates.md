@@ -17,7 +17,9 @@ please note plants are fully disabled due to a duplication glitch that the devel
 \
 for further information on this plugin "[CLICK HERE](https://dev.bukkit.org/projects/exotic-garden)"\
 \
-Once i have spare time, i will add the recipes and relevant information to the wiki for ease of access.
+Once i have spare time, i will add the recipes and relevant information to the wiki for ease of access. (If anyone grabs some nice screenshots using this feature, please press F1, then F2 to grab screenshot as a wallpaper so we can use for our wiki and advertising etc
+
+
 {% endhint %}
 
 ## Version 1.0.2 - 18/09/2022
