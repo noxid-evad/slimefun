@@ -4,6 +4,36 @@ description: Latest server updates.
 
 # Updates
 
+## Version 1.0.4 - 15/10/2022
+
+{% hint style="info" %}
+<mark style="color:yellow;">**NEW PLUGINS - SLIMEFUN ADDONS**</mark>\
+\- Supreme - [More information](https://github.com/RelativoBR/Supreme/blob/main/README.md)\
+\- SFChunkInfo - [More Information](https://github.com/FN-FAL113/SfChunkInfo/blob/main/README.md)\
+\- Networks - [More Information](https://github.com/Sefiraat/Networks/wiki)\
+\- CrystameHistoria - [More Information](https://github.com/Sefiraat/CrystamaeHistoria/wiki)\
+\- SlimeTinker - [More Information](https://github.com/Sefiraat/SlimeTinker/wiki)\
+\- AlchimiaVitae - [More Information](https://github.com/Apeiros-46B/AlchimiaVitae/blob/master/README.md)\
+\- SimpleUtils - [More Information](https://github.com/Mooy1/SimpleUtils/blob/master/README.md)\
+\
+_There is now a grand total of <mark style="color:blue;">**359 Researches**</mark>, <mark style="color:blue;">**549 Slimefun Items**</mark> & <mark style="color:blue;">**2616 items in addons**</mark> for you to achieve._ \
+\
+<mark style="color:green;">**NEW ADVANCEMENTS FOR TERRALITH**</mark>\
+\- 26 new advancements added\
+\- Some will be for finding a specific biome and or require to find every biome\
+\- You can now get a stack of deepslate emerald ore for the "Oresome" advancement\
+\
+<mark style="color:purple;">**NEW DATAPACKS ADDED**</mark> \
+\- \*\*hopobettermineshaft - [More Information](https://www.planetminecraft.com/data-pack/better-mineshafts/)\
+\- \*\*hopobetterunderwaterruins - [More information](https://www.planetminecraft.com/data-pack/better-underwater-ruins-underwater-cities-and-cave-structures/)\
+\- \*\*universal-ctov  - [More information](https://www.planetminecraft.com/data-pack/choicetheorem-s-overhauled-villages-for-1-19/)\
+\
+**As the world is already pre-generated via a datapack, and not through the usual means. These datapacks whilst installed will not take effect until i pre-generate new chunks within the world. Currently i am awaiting feedback from devs if it is safe to remove region files, or expand into new lands**\
+\
+Some requested packs cannot be installed due to varying reasons such as incompatible and/or require a resource pack which in turn is something i don't want to get involved with just yet. However i am open to custom textures in the future (but this would require help from others for achieving) \
+
+{% endhint %}
+
 ## Version 1.0.3 - 07/10/2022
 
 {% hint style="success" %}
