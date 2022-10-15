@@ -40,4 +40,16 @@
 
 <figure><img src="../.gitbook/assets/horsearmoriron.jpg" alt=""><figcaption><p>Iron Horse Armor</p></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/cryingobsidian.jpg" alt=""><figcaption><p>Crying Obsidian</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/nametag.jpg" alt=""><figcaption><p>Nametag</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/obsidian.jpg" alt=""><figcaption><p>Obsidian</p></figcaption></figure>
+
 </div>
