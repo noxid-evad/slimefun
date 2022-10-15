@@ -20,6 +20,7 @@
   * [Emerald](global/ranks/emerald.md)
   * [Diamond](global/ranks/diamond.md)
   * [Netherite](global/ranks/netherite.md)
+* [Custom Crafting](global/custom-crafting.md)
 
 ## Towny
 

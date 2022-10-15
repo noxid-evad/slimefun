@@ -51,3 +51,6 @@ These are the available commands for the default rank.&#x20;
 |    /jobs help    |                                    Provides help                                    |
 |      /quests     |                                   Opens quests gui                                  |
 |  /quests random  |                                 Start a random quest                                |
+|       /vote      |                            Ability to use voting features                           |
+|       /key       |                          Check the number of keys you have                          |
+|        /cc       |                                 Access to crates gui                                |
