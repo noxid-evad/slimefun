@@ -108,4 +108,8 @@
 
 <figure><img src="../.gitbook/assets/totem.jpg" alt=""><figcaption><p>Totem Of Undying</p></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/leather.jpg" alt=""><figcaption><p>Leather</p></figcaption></figure>
+
 </div>
