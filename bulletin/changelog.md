@@ -1,5 +1,23 @@
 # Changelog
 
+## Changelog 0008 - 15/10/2022
+
+* Implemented some new recipes to fill in with the vanilla table, use the crafting table to unlock them\
+  \
+  <mark style="color:orange;">**Users can now craft the following below**</mark>\
+  \- Chainmail Helmet\
+  \- Chainmail Chestplate\
+  \- Chainmail Leggings\
+  \- Chainmail Boots\
+  \- Horse armor - Diamond\
+  \- Horse armor - Iron\
+  \- Horse armor - Gold\
+  \- Horse armor - Leather\
+  \- Cobweb\
+  \- Heart of the sea\
+  \- Saddle\
+  \- Trident&#x20;
+
 ## Changelog 0007 - 28/09/2022
 
 <mark style="color:green;">**Fixed:**</mark> /kits default not working on default rank\
