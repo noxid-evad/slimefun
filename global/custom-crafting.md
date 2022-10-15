@@ -52,4 +52,8 @@
 
 <figure><img src="../.gitbook/assets/obsidian.jpg" alt=""><figcaption><p>Obsidian</p></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/podzol.jpg" alt=""><figcaption><p>2x Rooted/Coarse Dirt - Podzol</p></figcaption></figure>
+
 </div>
