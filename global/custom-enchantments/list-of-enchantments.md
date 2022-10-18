@@ -21,3 +21,25 @@
 |    Xp Boost    |     1     | <p>Axe<br>Sword<br>Trident</p> |                                                         When you kill a mob, the xp dropped will be of more value                                                         |
 
 ## Tools
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+{% endtab %}
+{% endtabs %}
