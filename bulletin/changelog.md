@@ -1,5 +1,37 @@
 # Changelog
 
+## Changelog 0009 - 18/10/2022
+
+{% hint style="success" %}
+<mark style="color:green;">**Structory**</mark> \
+Has now been updated for Season 2: Harvest of Structory\
+The Harvest expansion features several new spooky & autumn-themed structures like the brand new Manor! There will further updates to Harvest in the next few weeks, adding even more content!\
+\
+Server and all plugins have also been updated to latest compatible jars
+{% endhint %}
+
+{% hint style="danger" %}
+Removed the following plugins for the time being (I want to tweak server properly, one step at a time, without having a million tasks to do)\
+\
+\- Smg\
+\- SlimyTreeTaps\
+\- SlimeTinker\
+\- SlimeHud\
+\- Simple Utils\
+\- SFChunkInfo\
+\- Private Storage\
+\- Potion Expansion\
+\- Lucky Blocks\
+\- Foxy Machines\
+\- Electric Spawners\
+\- Brewery\
+\- AlchimaVitae
+{% endhint %}
+
+{% hint style="info" %}
+You may have noticed a lot of stop/starting the server for today, fear not this is just me making the necessary tweaks and changes to further improve server performance. As always your feedback and input for ways to further improve the server is always appreciated.&#x20;
+{% endhint %}
+
 ## Changelog 0008 - 15/10/2022
 
 * Implemented some new recipes to fill in with the vanilla table, use the crafting table to unlock them\
