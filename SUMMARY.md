@@ -25,6 +25,7 @@
   * [List of Enchantments](global/custom-enchantments/list-of-enchantments.md)
   * [Charged Workbench](global/custom-enchantments/charged-workbench.md)
   * [Technical Anvil](global/custom-enchantments/technical-anvil.md)
+  * [Disenchanting](global/custom-enchantments/disenchanting.md)
 
 ## Towny
 
