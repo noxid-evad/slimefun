@@ -27,6 +27,7 @@
   * [Technical Anvil](global/custom-enchantments/technical-anvil.md)
   * [Disenchanting](global/custom-enchantments/disenchanting.md)
   * [Enchantments Description](global/custom-enchantments/enchantments-description.md)
+* [More Food](global/more-food.md)
 
 ## Towny
 
