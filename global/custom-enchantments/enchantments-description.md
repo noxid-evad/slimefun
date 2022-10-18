@@ -101,3 +101,23 @@ Haste: Gives you the haste effect. Auto Smelt: With the pickaxe, you can get ing
 <mark style="color:green;">**Horse Armor:**</mark> You can apply some of these custom enchantments to any horse armor, including frost walker! See it here:
 
 <figure><img src="../../.gitbook/assets/horse-enchantment.jpg" alt=""><figcaption></figcaption></figure>
+
+<details>
+
+<summary>Custom Curses Description</summary>
+
+* <mark style="color:red;">**You can't disenchant items with these curses:**</mark>
+
+<mark style="color:orange;">**Curse of Fragile (everything):**</mark> Your item will take more durability damage.
+
+<mark style="color:orange;">**Curse of Sensitive (armor, elytra and shield):**</mark> Each time you get hit, you will have a chance to explode. This is cumulative per armor piece, so you may trigger a big explosion.
+
+In case this curse is on a shield, each time the shield loose durability it will have a small chance to trigger a explosion.
+
+<mark style="color:orange;">**Curse of Slippery (tools and weapons):**</mark> Each time your item loose durability, your item will have a chance to be dropped. When this happens a sound will play to let you know.
+
+<mark style="color:orange;">**Curse of Fear (weapons):**</mark> While holding this weapon you get scared if there are hostile mobs in a 25 block radious. The more mobs are the weaker you get (less attack damage, attack speed and movement speed). Stonger mobs will scare you more.
+
+<mark style="color:orange;">**Curse of Exhaustion (tools):**</mark> Each time you use this tool, it has a random chance to make you feel really tired for 5 seconds. During this state you won't be able to mine any blocks, move correctly or jump.
+
+</details>
