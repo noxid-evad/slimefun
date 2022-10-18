@@ -15,7 +15,9 @@ With regards to Slimefun (As we haven't really got into it yet, I have disabled 
 \
 I am trying to improve the server in anyway i can to better your user experience, whilst it isn't the finished article (and i am the only one actively working on it as much as possible) so your support, suggestions, ideas, feedback helps with this. \
 \
-Enjoy the enchantments
+Enjoy the enchantments\
+\
+ps: i have added even more [CRAFTING RECIPES](https://1blockoff.gitbook.io/1blockoff-library/global/custom-crafting) you can find these in the vanilla workbench
 {% endhint %}
 
 ## Version 1.0.4 - 15/10/2022
