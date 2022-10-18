@@ -21,6 +21,8 @@
   * [Diamond](global/ranks/diamond.md)
   * [Netherite](global/ranks/netherite.md)
 * [Custom Crafting](global/custom-crafting.md)
+* [Custom Enchantments](global/custom-enchantments/README.md)
+  * [List of Enchantments](global/custom-enchantments/list-of-enchantments.md)
 
 ## Towny
 
