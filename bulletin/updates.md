@@ -4,6 +4,20 @@ description: Latest server updates.
 
 # Updates
 
+## Version 1.0.5 - 18/10/2022
+
+{% hint style="success" %}
+I am please to say that we now have a wide range of custom enchantments & books more information will be found [here](https://1blockoff.gitbook.io/1blockoff-library/global/custom-enchantments) (For the time being it's not possible to get these books from villagers, but i am actively working on that)\
+\
+This will provide users with even more things to do and achieve in the server.\
+\
+With regards to Slimefun (As we haven't really got into it yet, I have disabled a few plugins for the time being) i need to collectively go through these addons bit by bit to see what benefits the server for the better. \
+\
+I am trying to improve the server in anyway i can to better your user experience, whilst it isn't the finished article (and i am the only one actively working on it as much as possible) so your support, suggestions, ideas, feedback helps with this. \
+\
+Enjoy the enchantments
+{% endhint %}
+
 ## Version 1.0.4 - 15/10/2022
 
 {% hint style="info" %}
