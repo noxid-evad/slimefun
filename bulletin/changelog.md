@@ -13,7 +13,18 @@
 _<mark style="color:green;">New Plants</mark>_\
 \- Blueberry bush (you can find seeds in tiaga village chests)\
 \- Blackberry bush (you can find seeds in tiaga village chests)\
+\
+RESOURCE pack has also been updated to include new items.\
 
+{% endhint %}
+
+{% hint style="warning" %}
+**FIXES - Custom Enchantments**\
+****- Some minor performance improvements in relation to horse entities and items\
+\- Enchanted mobs now display a little sound if you're close enough to them\
+\
+\- Timber has now been corrected and should work as intended\
+\- Mining+ is now back to full functionality&#x20;
 {% endhint %}
 
 ## Changelog 0009 - 18/10/2022
