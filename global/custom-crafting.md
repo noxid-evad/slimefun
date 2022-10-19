@@ -112,4 +112,8 @@
 
 <figure><img src="../.gitbook/assets/leather.jpg" alt=""><figcaption><p>Leather</p></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/blackstone.png" alt=""><figcaption><p>Blackstone</p></figcaption></figure>
+
 </div>
