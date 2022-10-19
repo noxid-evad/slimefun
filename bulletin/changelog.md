@@ -27,6 +27,11 @@ RESOURCE pack has also been updated to include new items.\
 \- Mining+ is now back to full functionality&#x20;
 {% endhint %}
 
+Also added "BLACKSTONE" as a craftable recipe (as per request from ToxicBigFoot)\
+
+
+<figure><img src="../.gitbook/assets/blackstone.png" alt=""><figcaption></figcaption></figure>
+
 ## Changelog 0009 - 18/10/2022
 
 {% hint style="success" %}
