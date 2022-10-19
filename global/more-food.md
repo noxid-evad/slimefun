@@ -20,7 +20,7 @@ step d, click on the folder - resourcepacks\
 step e, and drop the .zip file in there (DO NOT UNZIP)\
 ****
 
-{% file src="../.gitbook/assets/More Food v0.2 Resource Pack by Kodisa.zip" %}
+{% file src="../.gitbook/assets/More Food v0.3 Resource Pack by Kodisa (1).zip" %}
 
 \
 With this new feature added to the server on a trial basis. Users can now craft some more food. \
@@ -29,7 +29,7 @@ You can now enjoy the following
 
 <details>
 
-<summary>Fruits (12)</summary>
+<summary>Fruits (14)</summary>
 
 * Pear: Chance to drop out of Birch Leaves
 * Cherry: Chance to drop out of Dark Oak Leaves
@@ -43,6 +43,8 @@ You can now enjoy the following
 * Green Grapes: Chance to drop out of Vines
 * Pineapple: Chance to drop out of Fern in Jungle Biomes
 * Blueberries: Chance to drop out of Fern in Taiga Biomes (not Snowy Taiga)
+* Strawberry: Chance to drop out of fern in Tiaga biomes (not Snowy Tiaga)
+* Blackberries: Rightclick a Blackberry busy
 
 </details>
 
@@ -57,9 +59,11 @@ You can now enjoy the following
 
 <details>
 
-<summary>Plants (1)</summary>
+<summary>Plants (3)</summary>
 
 * Tomato Plant: Find some Tomato Seeds in a Shipwreck Supply Chest, plant it on dirt
+* Blueberry Bush: Find some Blueberry seeds in Tiaga village chests, plant it on dirt
+* Blackberry Bush: Find some Blackberry seeds in Tiaga village chests, plant it on dirt
 
 </details>
 
@@ -98,5 +102,19 @@ You can now enjoy the following
 
 {% tab title="Glow Berry Juice 2" %}
 <figure><img src="../.gitbook/assets/Glow-Berry-Juice2.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Sausage" %}
+<figure><img src="../.gitbook/assets/Sausage.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Ketchup (Not eatable)" %}
+<figure><img src="../.gitbook/assets/Ketchup.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Hotdog" %}
+<figure><img src="../.gitbook/assets/HotDog.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}

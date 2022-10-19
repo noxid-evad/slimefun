@@ -1,5 +1,21 @@
 # Changelog
 
+## Changelog 0010 - 19/10/2022
+
+{% hint style="success" %}
+<mark style="color:yellow;">**More Food**</mark>\ <mark style="color:yellow;">****</mark>_<mark style="color:green;">New items have now been added</mark>_\
+\- Sausage\
+\- Ketchup\
+\- Hot Dog\
+\- Strawberry (can be found in fern at the tiaga biomes)\
+\- Blackberries\
+\
+_<mark style="color:green;">New Plants</mark>_\
+\- Blueberry bush (you can find seeds in tiaga village chests)\
+\- Blackberry bush (you can find seeds in tiaga village chests)\
+
+{% endhint %}
+
 ## Changelog 0009 - 18/10/2022
 
 {% hint style="success" %}
