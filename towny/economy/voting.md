@@ -1,5 +1,55 @@
 # Voting
 
+<figure><img src="../../.gitbook/assets/testing.jpg" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/to.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/withlore.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/121212.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/121212.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/121212.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/121212.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/121212.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/121212.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/121212.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/121212.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
 *
 [x] 
     <div>

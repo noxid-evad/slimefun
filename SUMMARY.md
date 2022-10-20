@@ -5,6 +5,7 @@
 * [🔊 Bulletin](bulletin/README.md)
   * [Changelog](bulletin/changelog.md)
   * [Updates](bulletin/updates.md)
+* [Showcase](showcase.md)
 
 ## Global
 
