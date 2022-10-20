@@ -28,15 +28,15 @@ Here is a few screenshots taking by some of our users to showcase what our biome
 
  
 
-<figure><img src=".gitbook/assets/toxic1.png" alt=""><figcaption><p>Credits: TheToxicBigFoot</p></figcaption></figure>
+<figure><img src=".gitbook/assets/toxic1 (1).png" alt=""><figcaption><p>Credits: TheToxicBigFoot</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/toxic2.png" alt=""><figcaption><p>Credits: TheToxicBigFoot</p></figcaption></figure>
+<figure><img src=".gitbook/assets/toxic2 (1).png" alt=""><figcaption><p>Credits: TheToxicBigFoot</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/toxic3.png" alt=""><figcaption><p>Credits: TheToxicBigFoot</p></figcaption></figure>
+<figure><img src=".gitbook/assets/toxic3 (1).png" alt=""><figcaption><p>Credits: TheToxicBigFoot</p></figcaption></figure>
 
  
 
@@ -45,6 +45,38 @@ Here is a few screenshots taking by some of our users to showcase what our biome
  
 
 <figure><img src=".gitbook/assets/unknown.png" alt=""><figcaption><p>Credits: TheToxicBigFoot</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/2022-10-20_16.43.33.png" alt=""><figcaption><p>Credits: noxidevad</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/2022-10-20_16.49.44.png" alt=""><figcaption><p>Credits: noxidevad</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/2022-10-20_16.54.33.png" alt=""><figcaption><p>Credits: noxidevad</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/2022-10-20_17.05.01.png" alt=""><figcaption><p>Credits: noxidevad</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/2022-10-20_17.06.35.png" alt=""><figcaption><p>Credits: noxidevad</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/2022-10-20_17.06.46.png" alt=""><figcaption><p>Credits: noxidevad</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/2022-10-20_17.07.29.png" alt=""><figcaption><p>Credits: noxidevad</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/2022-10-20_17.07.44.png" alt=""><figcaption><p>Credits: noxidevad</p></figcaption></figure>
 
 </div>
 
