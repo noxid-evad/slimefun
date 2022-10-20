@@ -1,6 +1,15 @@
+---
+description: List of our voting servers (I may add more at a later date)
+---
+
 # Voting
 
-#### What do we get for voting
+Currently our server is registered to the following below, You can help support our server by voting daily, sharing our voting links or by leaving a review. Each vote that our server receives moves us up on the ladder to getting more noticed and attracting new players.&#x20;
+
+{% hint style="danger" %}
+!IMPORTANT!\
+It is important to provide the voting site with your correctly spelled and valid in-game username, Otherwise the vote will not count. _<mark style="color:red;">We cannot fix your vote if you spelt it incorrectly so do not ask.</mark>_&#x20;
+{% endhint %}
 
 Users will receive a random amount of money between £50 and £500 per vote\
 In-game experience a random amount of experience orbs
@@ -9,7 +18,15 @@ In-game experience a random amount of experience orbs
 
 
 
+<div>
+
 <figure><img src="../../../.gitbook/assets/testing.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/vote1.jpg" alt=""><figcaption><p><mark style="color:yellow;"><strong></strong></mark><a href="https://minecraft-server-list.com/server/486841/vote/"><mark style="color:yellow;"><strong>CLICK HERE TO VOTE ON THIS SITE</strong></mark></a><mark style="color:yellow;"><strong></strong></mark></p></figcaption></figure>
+
+</div>
 
 <div>
 
@@ -18,6 +35,10 @@ In-game experience a random amount of experience orbs
  
 
 <figure><img src="../../../.gitbook/assets/withlore.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/testing.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
