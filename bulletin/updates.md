@@ -4,6 +4,18 @@ description: Latest server updates.
 
 # Updates
 
+## Version 1.06 - CRITICAL - 23/10/2022
+
+Unfortunately due to the server continuously crashing this evening, and with nothing to go on by within the crash logs. I have tried my best to find a possible solution with tweaks to see if that helps the server and sadly, the end result is the exact same. To protect the server (and of course your precious bases etc) \
+\
+I have had to put in a backup from (2 days ago) as this backup was last taken (21/10/2022 - @ 5am gmt) What does that mean?\
+\
+\- Any progress you've made on the server between the above and now has been lost and there is no way for us to recover it. This crash is out of my control and sadly it's a one in a blue moon moment. \
+\
+Fingers crossed this solves the issue, Just for safe keeping, i will try to get to your bases and create a schematic (and also backup your region file.mca files - you can see this by pressing F3 and looking for #.#.mca region file) \
+\
+If the issue continues to persist and remains at critical level then i may be forced to take drastic action, however that will only be a last resort.&#x20;
+
 ## Version 1.0.5 - 18/10/2022
 
 {% hint style="success" %}
