@@ -14,7 +14,9 @@ I have had to put in a backup from (2 days ago) as this backup was last taken (2
 \
 Fingers crossed this solves the issue, Just for safe keeping, i will try to get to your bases and create a schematic (and also backup your region file.mca files - you can see this by pressing F3 and looking for #.#.mca region file) \
 \
-If the issue continues to persist and remains at critical level then i may be forced to take drastic action, however that will only be a last resort.&#x20;
+If the issue continues to persist and remains at critical level then i may be forced to take drastic action, however that will only be a last resort. \
+\
+We've also changed our backups to be daily so not to lose as much progress.&#x20;
 
 ## Version 1.0.5 - 18/10/2022
 
