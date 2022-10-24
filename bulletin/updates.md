@@ -4,6 +4,22 @@ description: Latest server updates.
 
 # Updates
 
+## Version 1.0.7 - Reopened - 24/10/2022
+
+After approx 10-11 hours of extensive testing and bug finding, the issue that we were facing has now been resolved for the time being. Server will be monitored over the next 24hours to ensure nothing else spits out.\
+\
+Sadly this backup is from 10 days ago, so all progress between then and now has been lost. (I have been able to restore some builds (dafiendmaker/ripper1213) in region 4-3 (next to the town Lil Seoul) \
+\
+I have placed a compensation box in the following locations\
+SkyBase - MrIBS, Charlie, Olivia\
+LilSeoul (Town) - TheToxicBigFoot, Trupolar\
+Ripper1213 (your house)\
+DaFiendMaker (your house)\
+\
+Your last previous inventory has also been lost, hence the reasoning for the compensation box, as i said before this issue is out of my hands and nothing i can do about it to retrieve loss of items, to help further prevent this, i highly recommend you start using your <mark style="color:green;">**/pv 1 (6 rows)**</mark> as a backup measure so incase of another failure your items will be always safeguarded. \
+\
+I have did my best to restore the areas use commonly play in back to there original state.&#x20;
+
 ## Version 1.06 - CRITICAL - 23/10/2022
 
 Unfortunately due to the server continuously crashing this evening, and with nothing to go on by within the crash logs. I have tried my best to find a possible solution with tweaks to see if that helps the server and sadly, the end result is the exact same. To protect the server (and of course your precious bases etc) \
