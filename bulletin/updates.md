@@ -28,6 +28,8 @@ As a note of caution i may still make changes to further help the server but as 
 If use find something wrong or seems out of place please let me know.&#x20;
 {% endhint %}
 
+I am hoping to have the server full live by tomorrow afternoon at some point after i do some more testing.&#x20;
+
 ## Version 1.0.8 - END POINT - 26/10/2022
 
 Sadly it appears we're now having more issues surrounding the server (and i am still no longer close to solving out it's issue.\
