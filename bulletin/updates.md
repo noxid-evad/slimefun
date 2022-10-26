@@ -4,6 +4,44 @@ description: Latest server updates.
 
 # Updates
 
+## Version 1.0.8 - END POINT - 26/10/2022
+
+Sadly it appears we're now having more issues surrounding the server (and i am still no longer close to solving out it's issue.\
+\
+Currently the server (console) has been error free for well over 24hrs, which in turn usually means that is a good thing. Sadly though in the early morning TheToxicBigFoot after spending many hours re-creating what was loss due to the 10 day roll back, noticed all his efforts had been removed without any knowledge (after checking the logs, and even attempting a rollback via coreprotect we were unsuccessful) _<mark style="color:green;">**This is a new type of issue that i have never witnessed before since playing in 1.7.9**</mark>_ The server as it stands is currently sucking the life and motivation out of me as i cannot diagnose and fix the issue when we have nothing to go on so i have now made the decision going forward to protect the server we will need to start fresh on a new map. DONT PANIC i have at least some good news going forward.&#x20;
+
+{% hint style="danger" %}
+<mark style="color:orange;">**What happens Now?**</mark>\ <mark style="color:orange;">**Option A:**</mark> All users are encouraged to get there precious items, tools & weapons and put them directly in there "/pv 1" this will allow ease of transfer to new server\
+<mark style="color:orange;">**Option B:**</mark> All users can fill there inventories up and find a way to kill yourself (without using lava) ideally do it in your base so it can auto-save your inventory. \
+\
+Server will remain online and users can still freely access the server, as with the previous update from a few days, YES i have the schematics of hopefully majority of users homes (and Sky Bases) which i can easily paste back into the new map (With that being said i am only human and there is a slight possibility i may of missed a few places)\
+\
+I can only apologize for this continuous headache we've been experiencing the last three to four days, but believe me i have tried my hardest to fix the problems to no avail. \
+\
+SO WHAT IS GOING TO HAPPEN GOING FORWARD???
+{% endhint %}
+
+{% hint style="info" %}
+<mark style="color:yellow;">**New Server Progress**</mark>\
+<mark style="color:orange;">**Step A:**</mark> Currently pre-generating the world chunks to ensure smooth transition when exploring the world and/or using /rtp (Generation is currently sitting at 15% - and is expected it will take another 6-12hrs to complete)\
+\
+<mark style="color:orange;">**Step B:**</mark> Render dynmap upon completion of Step A (This may also take a few hours)\
+\
+<mark style="color:orange;">**Step C:**</mark> Transfer all plugins across to the new server and do a quick test to ensure everything is working as intended\
+\
+Addition Information\
+\- Backups of the server are going be made more frequent to avoid loss of builds (so hopefully instead of 2 backups per day) i am aiming to have backups every 2-3hrs (this way it's more containable incase of errors. \
+\
+\- I will also be enabling auto-save inventories upon death for a little while until we can fully confirm server is working as intended. \
+\
+\- There will be no spawn to begin with but i will place few signs to say "/rtp to explore" \
+\
+Hopefully with everything the above the server will start playing nice and we can continue on as normal with our Minecraft exploration and creativity. Another update will follow upon completion of rendering.\
+\
+And once again i can only apologize for the last few days we've been experiencing. \
+
+{% endhint %}
+
 ## Version 1.0.7 - Reopened - 24/10/2022
 
 After approx 10-11 hours of extensive testing and bug finding, the issue that we were facing has now been resolved for the time being. Server will be monitored over the next 24hours to ensure nothing else spits out.\
