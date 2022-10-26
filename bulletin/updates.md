@@ -4,6 +4,30 @@ description: Latest server updates.
 
 # Updates
 
+## Version 2.0.0 - 26/10/2022
+
+{% hint style="info" %}
+I have made a clone of the server after the full render/pre-generation, i will test this current world for approx 12-16hrs (If i spot no issues then we will go fully live with the server) \
+\
+Don't worry though use can still freely going about your merry ways with exploring etc with any issues. As always i am only human and there is only so many things i can do at any given time. (PlayerVaults seem to be fine) Inventories i think i need to wait until a player is online before i can see your last-saved inventory (don't worry i put them in a shulkerbox just incase) so this should be easily dealt with.\
+\
+New Map can be found by [clicking on this link](http://mc.elitekamikazeteam.com:8123/)\
+\
+NEW END DIMENSION see more by [clicking on this link](https://1blockoff.gitbook.io/1blockoff-library/server-description) i recommend giving this a good read as it's a long to take in, and i do not have all the answers, what i can tell you is the stronghold is a brutal place to find and the end island is full of phantoms as well as the dragon so GOOD LUCK? (NO PUBLIC XP farm as of yet)
+{% endhint %}
+
+{% hint style="danger" %}
+Removed "More Foods" for the time being as it's constantly duplicating items and there is no way to stop it, until the dev fixes it.&#x20;
+{% endhint %}
+
+{% hint style="warning" %}
+You may notice use still have your sethomes ( THESE need to be removed by yourself) do not attempt to goto these homes as they do not exist and if you die in the process then that is truly on you) So to repeat myself remove your homes\
+\
+As a note of caution i may still make changes to further help the server but as always i will provide full disclosure on changes. \
+\
+If use find something wrong or seems out of place please let me know.&#x20;
+{% endhint %}
+
 ## Version 1.0.8 - END POINT - 26/10/2022
 
 Sadly it appears we're now having more issues surrounding the server (and i am still no longer close to solving out it's issue.\

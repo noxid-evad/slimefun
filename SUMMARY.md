@@ -10,7 +10,7 @@
 ## Global
 
 * [Join Discord](https://discord.gg/4kT7ygSn8g)
-* [Server Map](http://mc.elitekamikazeteam.com:8124)
+* [Server Map](http://mc.elitekamikazeteam.com:8123)
 * [Rules](https://1blockoff.com/index.php?route=/rules/)
 * [Ranks](global/ranks/README.md)
   * [Stone](global/ranks/stone.md)
